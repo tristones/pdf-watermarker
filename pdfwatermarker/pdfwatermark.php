@@ -7,7 +7,7 @@
  * @version 1.1.1
  * @license https://opensource.org/licenses/MIT MIT
  */
-namespace binarystash\pdfwatermarker;
+namespace Binarystash\Pdfwatermarker;
 
 class PDFWatermark {
 
